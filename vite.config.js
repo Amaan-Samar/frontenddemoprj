@@ -6,5 +6,3 @@ export default defineConfig({
   plugins: [react()],
   base: '/frontenddemoprj/'
 })
-git config user.name "Amaan-Samar"
-git config user.email "asamariqbal@gmail.com"
